@@ -1,12 +1,7 @@
 package com.example.javaproject;
 
-import com.example.javaproject.CRUD;
-import com.example.javaproject.membreClub;
-
 import java.util.LinkedList;
 import java.util.List;
-
-
 
 public class espaceMembre implements CRUD<membreClub> {
 

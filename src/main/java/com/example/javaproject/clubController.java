@@ -125,6 +125,8 @@ public class clubController implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
         showClubs();
+
+        // en utilisant un arrow-fonction , on aboutit à calculer la cotisation totale de chaque club
         tableclub.setRowFactory(tv -> {
             TableRow<club> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
