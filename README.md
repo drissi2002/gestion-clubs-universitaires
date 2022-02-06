@@ -6,6 +6,7 @@ My project entitled "CLUB'Y", is an application developed using IntelliJ, Scene 
 
 <p align="center">
   <img src="https://i.imgur.com/5QsvpWD.png"  alt="accessibility text">
+  <br> 
   <img src="https://i.imgur.com/nadkBFg.png" alt="accessibility text">
   <img src="https://i.imgur.com/IJNswVY.png"  alt="accessibility text">
   <img src="https://i.imgur.com/cxgOaAy.png"  alt="accessibility text">
