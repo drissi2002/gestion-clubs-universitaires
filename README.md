@@ -11,11 +11,7 @@ Pour l'implémentation on a eu recours à : IntelliJ , Java 8 , JavaFX , phpMyAd
 <p align="center">
   <img src="https://i.imgur.com/5QsvpWD.png"  alt="accessibility text">
   <hr>
-  <img src="https://i.imgur.com/nadkBFg.png"  alt="accessibility text">
-  <hr>
   <img src="https://i.imgur.com/cxgOaAy.png"  alt="accessibility text">
-   <hr>
-  <img src="https://i.imgur.com/obpQeTw.png"  alt="accessibility text"> 
    <hr>
   <img src="https://i.imgur.com/vquM4Iq.png"  alt="accessibility text">
 </p>
