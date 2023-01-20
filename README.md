@@ -11,8 +11,11 @@ Pour l'implémentation on a eu recours à : IntelliJ , Java 8 , JavaFX , phpMyAd
 <p align="center">
   <img src="https://i.imgur.com/5QsvpWD.png"  alt="accessibility text">
   <hr>
+  
+  ## Espace Clubs
   <img src="https://i.imgur.com/cxgOaAy.png"  alt="accessibility text">
    <hr>
+   ## Genération des cartes membres avec un code QR 
   <img src="https://i.imgur.com/vquM4Iq.png"  alt="accessibility text">
 </p>
 
